@@ -1,0 +1,22 @@
+body {
+    background-image: url(img/background.jpg);
+    background-repeat: no-repeat;
+}
+#tlacitko {
+    background-color: rgba(0, 0, 0, 0.801);
+    color: white;
+    border: rgba(0, 0, 0, 0.801);;
+    display: block;
+    height: auto;
+    margin: auto;  
+}
+#kostka {
+    display: block;
+    width: 16%;
+    height: auto;
+    margin: auto;  
+}
+#statistika {
+    text-align: center;
+    color: white;
+}
